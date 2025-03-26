@@ -7,7 +7,7 @@
 ## 👋 Sobre mim  
 💻 Desenvolvedor apaixonado por tecnologia  
 ⚡ Sempre buscando aprender algo novo  
-📍  Brasil  
+📍   Brasil  
 
 ---
 
