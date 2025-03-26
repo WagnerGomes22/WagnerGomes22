@@ -13,11 +13,10 @@
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical&hide_border=true" />
- 
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WagnerGomes22&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WagnerGomes22&theme=radical&hide_border=true" />
 </p>
+
 
 
 ## 🚀 Tecnologias & Ferramentas  
